@@ -3,7 +3,7 @@
 <!--
 **jmigartua/jmigartua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+Taken from: https://towardsdatascience.com/build-an-impressive-github-profile-in-3-steps-f1938957d480
 
 [![Josu M Igartua's github stats](https://github-readme-stats.vercel.app/api?username=jmigartua&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/jmigartua/github-readme-stats)
 
